@@ -1,4 +1,4 @@
-Quick demo of a shatetoy shader converted to wgsl with wgpu
+Quick demo of a shadertoy shader converted to wgsl with wgpu
 
 https://www.shadertoy.com/view/mtyGWy
 
